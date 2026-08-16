@@ -1,7 +1,2 @@
 I am working on a serious devlopment, and i want to focus.
-<<<<<<< Updated upstream
 More development.
-I have done the remaning development.
-=======
-More development.
->>>>>>> Stashed changes
